@@ -1,0 +1,54 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera
+{
+  border: 2px dashed black;
+  width: 300px;
+  height: 300px; 
+}
+#result
+{
+  border: 2px dashed black;
+  width: 300px;
+  height: 300px; 
+}
+#result_hand_name ,#result_hand_name2  
+{
+  color: black;
+}
+.hand_name
+{
+  font-size: 40px;
+}
+.hand
+{
+  font-size:48px;
+}
+.heading
+{
+  letter-spacing: 10px;
+  font-size: 18px;
+  border-style: dotted;
+  border-width: 5px;
+  border-color: darkviolet;
+}
+
+.label1
+{
+  font-size: 20px;
+  color: blueviolet;
+}
+
+label
+{
+  font-size: 20px;
+  letter-spacing: 5px;
+  color:indigo;
+}
